@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="facebook.com/returaj.sumon.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/returaj.sumon.1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/uclkndnqqy9zj7g4e7fkjwqa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uclkndnqqy9zj7g4e7fkjwqa" height="30" width="40" /></a>
+<a href="https://fb.com/returaj.sumon.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="returaj.sumon.1" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UClKnDnqQY9zj7G4e7FkJWQA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uclkndnqqy9zj7g4e7fkjwqa" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/returaj0808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="returaj0808" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/returaj0808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="returaj0808" height="30" width="40" /></a>
 </p>
