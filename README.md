@@ -13,8 +13,8 @@
 <a href="https://www.topcoder.com/members/returaj0808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="returaj0808" height="30" width="40" /></a>
 </p>
 <p align="left">
- <h3>Currently Working On:</h3> [Chatting App Using Firebase](https://github.com/ReturajProshad/Chatt_firebase).
-
+ <h3>Currently Working On:</h3> <a href="https://github.com/ReturajProshad/Chatt_firebase">Chatting App Using Firebase</a>
+   <img src="https://github.com/ReturajProshad/Chatt_firebase/assets/130851471/1fdd31a0-369f-46a2-ba28-624215b4dfad" width="30" height="60" />
 </p>
 <p align="left">
   <h3 align="left">Top Repositories</h3>
