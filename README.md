@@ -12,30 +12,32 @@
 <a href="https://codeforces.com/profile/returaj0808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="returaj0808" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/returaj0808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="returaj0808" height="30" width="40" /></a>
 </p>
-<p align="left">
+<!-- <p align="left">
  <h3>Currently Working On:</h3> <a href="https://github.com/ReturajProshad/Chatt_firebase">Chatting App Using Firebase</a>
    <img src="https://github.com/ReturajProshad/Chatt_firebase/assets/130851471/1fdd31a0-369f-46a2-ba28-624215b4dfad" width="30" height="60" />
-</p>
+</p> -->
 <p align="left">
   <h3 align="left">Top Repositories</h3>
-1) [E-Commerce App](https://github.com/ReturajProshad/E-Commerce-Project)
+
  
-1) [Task Manager App](https://github.com/ReturajProshad/TaskManagerWithApi)
+1) [E-Commerce App](https://github.com/ReturajProshad/E-Commerce-Project)
+2) [Chatting App](https://github.com/ReturajProshad/Chatt_firebase) 
+    <img src="https://github.com/ReturajProshad/Chatt_firebase/assets/130851471/1fdd31a0-369f-46a2-ba28-624215b4dfad" width="20" height="20" />
+3) [Task Manager App](https://github.com/ReturajProshad/TaskManagerWithApi)
    <img src="https://cdn6.f-cdn.com/contestentries/134732/11485812/549932dff2efe_thumb900.jpg" width="20" height="20" />
 
-2) [Calculator](https://github.com/ReturajProshad/My_first_flutter_project--calculator-)
+4) [Calculator](https://github.com/ReturajProshad/My_first_flutter_project--calculator-)
    <img src="https://cdn-icons-png.flaticon.com/512/1011/1011863.png" width="20" height="20" />
 
-3) [Tic Tac Toy](https://github.com/ReturajProshad/Second_Project_tik_tak_toe)
+5) [Tic Tac Toy](https://github.com/ReturajProshad/Second_Project_tik_tak_toe)
    <img src="https://as1.ftcdn.net/v2/jpg/02/33/12/44/1000_F_233124432_3v91Swpb6pImaTZllYCcXaScrSlueMxX.jpg" width="20" height="20" />
 
-4) [Simple Location Tracking Map App](https://github.com/ReturajProshad/map_app_project)
+6) [Simple Location Tracking Map App](https://github.com/ReturajProshad/map_app_project)
    <img src="https://static.vecteezy.com/system/resources/previews/009/653/632/non_2x/gps-tracking-icon-logo-illustration-tracking-symbol-template-for-graphic-and-web-design-collection-free-vector.jpg" width="20" height="20" />
 
-5) [TODO List App](https://github.com/ReturajProshad/todo_list_assignment)
-   <img src="https://i.pinimg.com/originals/1f/3f/4c/1f3f4ce973d946578567f190e2773709.png" width="20" height="20" />
-
-6) [Weather App](https://github.com/ReturajProshad/weather_app_assignment)
+7) [TODO List App](https://github.com/ReturajProshad/todo_list_assignment)
+<img src="https://i.pinimg.com/originals/1f/3f/4c/1f3f4ce973d946578567f190e2773709.png" width="20" height="20" />
+8) [Weather App](https://github.com/ReturajProshad/weather_app_assignment)
    <img src="https://cdn-icons-png.flaticon.com/512/6408/6408789.png" width="20" height="20" />
 
 </p>
