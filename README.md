@@ -20,7 +20,7 @@
   <h3 align="left">Top Repositories</h3>
 
  
-1) [E-Commerce App](https://github.com/ReturajProshad/E-Commerce-Project)
+1) [E-Commerce App](https://github.com/ReturajProshad/E-Commerce-Project) <img src="//github.com/ReturajProshad/E-Commerce-Project/assets/130851471/7c665443-273f-40f2-b625-0de6212a4647" width="20" height="20" />
 2) [Chatting App](https://github.com/ReturajProshad/Chatt_firebase) 
     <img src="https://github.com/ReturajProshad/Chatt_firebase/assets/130851471/1fdd31a0-369f-46a2-ba28-624215b4dfad" width="20" height="20" />
 3) [Task Manager App](https://github.com/ReturajProshad/TaskManagerWithApi)
@@ -35,10 +35,8 @@
 6) [Simple Location Tracking Map App](https://github.com/ReturajProshad/map_app_project)
    <img src="https://static.vecteezy.com/system/resources/previews/009/653/632/non_2x/gps-tracking-icon-logo-illustration-tracking-symbol-template-for-graphic-and-web-design-collection-free-vector.jpg" width="20" height="20" />
 
-7) [TODO List App](https://github.com/ReturajProshad/todo_list_assignment)
-<img src="https://i.pinimg.com/originals/1f/3f/4c/1f3f4ce973d946578567f190e2773709.png" width="20" height="20" />
-8) [Weather App](https://github.com/ReturajProshad/weather_app_assignment)
-   <img src="https://cdn-icons-png.flaticon.com/512/6408/6408789.png" width="20" height="20" />
+7) [TODO List App](https://github.com/ReturajProshad/todo_list_assignment)<img src="https://i.pinimg.com/originals/1f/3f/4c/1f3f4ce973d946578567f190e2773709.png" width="20" height="20" />
+8) [Weather App](https://github.com/ReturajProshad/weather_app_assignment) <img src="https://cdn-icons-png.flaticon.com/512/6408/6408789.png" width="20" height="20" />
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
