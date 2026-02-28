@@ -1,49 +1,217 @@
-<h1 align="center">Hi 👋, I'm Returaj Proshad Shornocar</h1>
-<h3 align="center">A passionate flutter developer from Bangladesh</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Returaj+Proshad+Shornocar;Flutter+Engineer+%7C+2%2B+Years+Professional+Experience;Clean+Architecture+%7C+Riverpod+%7C+Enterprise+Mobile" alt="Typing SVG" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=returajproshad&label=Profile%20views&color=0e75b6&style=flat" alt="returajproshad" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=returajproshad" alt="returajproshad" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/returaj.sumon.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="returaj.sumon.1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UClKnDnqQY9zj7G4e7FkJWQA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uclkndnqqy9zj7g4e7fkjwqa" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/returaj0808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="returaj0808" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/returaj0808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="returaj0808" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:returajsumon0808@gmail.com"><img src="https://img.shields.io/badge/Email-returajsumon0808%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/returajproshad"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=returajproshad&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
-<!-- <p align="left">
- <h3>Currently Working On:</h3> <a href="https://github.com/ReturajProshad/Chatt_firebase">Chatting App Using Firebase</a>
-   <img src="https://github.com/ReturajProshad/Chatt_firebase/assets/130851471/1fdd31a0-369f-46a2-ba28-624215b4dfad" width="30" height="60" />
-</p> -->
-<p align="left">
-  <h3 align="left">Top Repositories</h3>
 
-0) [Professional Projects docs](https://github.com/ReturajProshad/professional-summary) <img src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_mhQrLBe8tuE6C0byy_CabpzSdRt-i4kOuCTprr1O-A&s" width="20" height="20" />
-
- 
-1) [E-Commerce App](https://github.com/ReturajProshad/E-Commerce-Project) <img src="//github.com/ReturajProshad/E-Commerce-Project/assets/130851471/7c665443-273f-40f2-b625-0de6212a4647" width="20" height="20" />
-2) [Chatting App](https://github.com/ReturajProshad/Chatt_firebase) 
-    <img src="https://github.com/ReturajProshad/Chatt_firebase/assets/130851471/1fdd31a0-369f-46a2-ba28-624215b4dfad" width="20" height="20" />
-3) [Task Manager App](https://github.com/ReturajProshad/TaskManagerWithApi)
-   <img src="https://cdn6.f-cdn.com/contestentries/134732/11485812/549932dff2efe_thumb900.jpg" width="20" height="20" />
-
-4) [Calculator](https://github.com/ReturajProshad/My_first_flutter_project--calculator-)
-   <img src="https://cdn-icons-png.flaticon.com/512/1011/1011863.png" width="20" height="20" />
-
-5) [Tic Tac Toy](https://github.com/ReturajProshad/Second_Project_tik_tak_toe)
-   <img src="https://as1.ftcdn.net/v2/jpg/02/33/12/44/1000_F_233124432_3v91Swpb6pImaTZllYCcXaScrSlueMxX.jpg" width="20" height="20" />
-
-6) [Simple Location Tracking Map App](https://github.com/ReturajProshad/map_app_project)
-   <img src="https://static.vecteezy.com/system/resources/previews/009/653/632/non_2x/gps-tracking-icon-logo-illustration-tracking-symbol-template-for-graphic-and-web-design-collection-free-vector.jpg" width="20" height="20" />
-
-7) [TODO List App](https://github.com/ReturajProshad/todo_list_assignment)<img src="https://i.pinimg.com/originals/1f/3f/4c/1f3f4ce973d946578567f190e2773709.png" width="20" height="20" />
-8) [Weather App](https://github.com/ReturajProshad/weather_app_assignment) <img src="https://cdn-icons-png.flaticon.com/512/6408/6408789.png" width="20" height="20" />
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-Proficient-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-Practitioner-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Play_Store-50K%2B_Downloads-34A853?style=for-the-badge&logo=google-play&logoColor=white" />
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=returajproshad&show_icons=true&locale=en&layout=compact" alt="returajproshad" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=returajproshad&show_icons=true&locale=en" alt="returajproshad" /></p>
+## 🧑‍💻 About Me
+
+Flutter Engineer with **2+ years of professional experience** building enterprise-grade mobile applications at scale. I've shipped real products used by real users — from a **50K+ download Play Store app** to multi-backend enterprise systems for a Dhaka-based software company.
+
+I specialize in **Clean Architecture**, **Riverpod state management**, and building systems that are maintainable, testable, and predictable — not just visually complete. My work spans cross-platform kiosks, livestock management ERPs, land-sourcing platforms, and AI-powered apps.
+
+```
+🏢 Current:    Flutter & Mobile Developer @ One Direction Companies Limited (ODCL), Dhaka
+📱 Published:  CodeHorse on Play Store — 50K+ Downloads, 4.2★ Rating
+🏆 Competitive: ICPC 2021 Regional Contestant | 1,100+ Problems Solved
+🎓 Education:  B.Sc. CSE — Islamic University Bangladesh (CGPA: 3.63/4.00)
+```
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 One Direction Companies Limited (ODCL) — Flutter & Mobile Developer
+`Apr 2025 – Present` · Dhaka, Bangladesh
+
+Led end-to-end architecture and development of **3 enterprise Flutter systems**:
+
+- Engineered a **metadata-driven form engine** dynamically rendering **90+ complex forms**, cutting manual UI development time by **90%**
+- Built a **centralized routing & pagination framework** reused across **30+ modules**, eliminating code duplication
+- Implemented **dynamic RBAC with JWT authentication** for granular, real-time permission control
+- Developed a **cross-platform POS kiosk** (Windows + Android) integrating Win32 APIs and ESC/POS printing via Flutter Method Channels
+- Optimized app performance by **30%** through lazy loading, efficient caching, and minimized widget rebuilds
+- Collaborated on **Spring Boot REST API design** and consumption for robust data handling
+
+---
+
+## 🚀 Professional Projects
+
+> These are production systems built during my time at ODCL. Source code is confidential; architecture is documented publicly.
+
+---
+
+### 🐄 [Smart Gowala (Khabani) — Enterprise Livestock Management ERP](https://github.com/ReturajProshad/professional-summary/blob/main/SmartGowala%20(KHABANI).md)
+> *Clean Architecture · Multi-Backend Factory · Metadata-Driven Forms · Dynamic RBAC · Riverpod*
+
+A production Flutter ERP for livestock management supporting **1,000+ concurrent users**.
+
+| Capability | Implementation |
+|---|---|
+| **Multi-Backend Strategy** | Build-time configured, runtime-resolved selection: Firebase / PostgreSQL / Spring Boot via Factory Pattern |
+| **Metadata-Driven UI** | Dynamic engine renders 90+ forms from `FieldMetadata` schemas — one widget handles all field types |
+| **RBAC System** | Granular, real-time permission control via `StateNotifierProvider`; controls route access and widget visibility |
+| **Pagination Engine** | Generic, reusable module handling 10,000+ records with lazy loading and search across all modules |
+| **SOLID at Scale** | Every principle documented with trade-offs: S (isolated UseCases), O (Repository pattern), L (swappable backends), I (module-specific contracts), D (Riverpod-injected abstractions) |
+
+**Stack:** Riverpod · Dio · GoRouter · Firebase · PostgreSQL · Spring Boot · Hive · Flutter Secure Storage
+
+---
+
+### 🍽️ [FoodExpo — Cross-Platform Restaurant Kiosk](https://github.com/ReturajProshad/professional-summary/blob/main/FoodExpo.md)
+> *Cross-Platform · POS Hardware Integration · Flutter Method Channels · Riverpod*
+
+A kiosk ordering system deployed on both **Windows and Android** from a single Flutter codebase with platform-specific hardware integrations.
+
+- **POS Printing:** Platform-abstracted `POSInterface` with Win32 API (Windows) and ESC/POS Bluetooth/USB (Android) implementations via Method Channels
+- **Kiosk UX:** Touch-optimized UI with QR invoice scanning, table booking, and full cart management
+- **Architecture:** Feature-first modular structure with a clean platform abstraction layer per OS
+
+**Stack:** Riverpod · GoRouter · Dio · Flutter Method Channels · Win32 API · ESC/POS
+
+---
+
+### 📘 [Shimana — 24-Module Enterprise Application](https://github.com/ReturajProshad/professional-summary/blob/main/SHIMANA.md)
+> *Large-Scale Modular Architecture · Tri-Lingual · Spring Boot · Advanced PDF Handling*
+
+A feature-rich enterprise app with **24 independent modules** and full **tri-lingual support** (Bengali 🇧🇩 · English 🇬🇧 · French 🇫🇷).
+
+- **Advanced PDF Viewer:** Disk-based memory-efficient loading, dynamic QR overlay on page 1, table of contents drawer, direct page jump
+- **Document Library:** Lazy loading + pagination with advanced multi-field filtering
+- **JWT Token Flow:** Access + refresh token separation with automatic Dio interceptor-based renewal
+
+**Stack:** Riverpod · GoRouter · Dio · Spring Boot · Flutter Intl · Hive · Flutter Secure Storage
+
+---
+
+## 🔬 Open Source & Assessment Projects
+
+### 🛒 [ZaviMart — E-Commerce Architecture Case Study](https://github.com/ReturajProshad/zaviMart)
+> *Built as a technical assessment — every decision documented with rationale and trade-offs*
+
+- Clean Architecture per feature: `domain → data → presentation`
+- `AsyncNotifierProvider.family` — independent tab state, Riverpod-cached, zero cross-tab side effects
+- `NestedScrollView` + `SliverOverlapAbsorber/Injector` — unified scroll contract with collapsible header
+- `PageStorageKey` per tab — scroll position preserved independently across tab switches
+- JWT auth with AES-encrypted `flutter_secure_storage`
+- `dartz` Either for functional error handling across all layers
+
+**Stack:** `flutter_riverpod` · `dio` · `go_router` · `flutter_secure_storage` · `cached_network_image` · `dartz` · `equatable`
+
+---
+
+### 📱 [CodeHorse — Educational App](https://play.google.com/store/apps/details?id=com.rayhans.codehorse&hl=en&pli=1) &nbsp; ![Downloads](https://img.shields.io/badge/Play_Store-50K%2B_Downloads-34A853?style=flat&logo=google-play)
+> **50,000+ downloads · 4.2★ rating** — Firebase · AdMob · FCM · Node.js Backend · Provider
+
+---
+
+### Other Projects(older, foundational work)
+
+| Project | Description | Stack |
+|---|---|---|
+| [ 🛒 E commerce](https://github.com/ReturajProshad/E-Commerce-Project) | Products · Carts ·  Payment |  GETX · Rest Api |
+| [💬 Chat App](https://github.com/ReturajProshad/Chatt_firebase) | Real-time messaging with media sharing |Provider · Firebase Auth · Firestore |
+| [🗂️ Task Manager](https://github.com/ReturajProshad/TaskManagerWithApi) | Full CRUD with REST API | Flutter · REST API |
+| [🌦️ Weather App](https://github.com/ReturajProshad/weather_app_assignment) | Live weather data integration | REST API |
+| [📍 Location Tracker](https://github.com/ReturajProshad/map_app_project) | GPS tracking with Google Maps | Google Maps SDK |
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+</p>
+
+**Mobile:** Flutter · Dart · Riverpod · BLoC · GetX · Provider · GoRouter · Dio · Flutter Secure Storage  
+**Architecture:** Clean Architecture · MVVM · Repository Pattern · SOLID · Feature-First Modular Design  
+**Backend/Services:** Spring Boot · Firebase · REST APIs · PostgreSQL · Hive · SQLite · Firebase Functions  
+**DevOps/Tools:** Git · GitHub Actions (CI/CD) · GitLab · Postman · Android Studio · VS Code · Figma  
+**Specialized:** ESC/POS · Win32 API · Flutter Method Channels · Flutter Intl · Dartz · AdMob · FCM
+
+---
+
+## 🏆 Achievements
+
+```
+🥇  Play Store — CodeHorse: 50K+ Downloads, 4.2★ Rating
+🏅  ICPC 2021 Regional Contestant
+🔢  1,100+ Problems Solved:
+      Codeforces (Max Rating 1235 | 890+ solved)
+      LeetCode (60+) · Beecrowd (157+)
+🎓  Top Performer — Ostad Flutter Batch 3
+      Assignment 96.7% | Quiz 95% | Live Test 100%
+🔬  AI Research — NeuroTransMir: Transformer-based miRNA-gene prediction (ROC-AUC + F1)
+```
+
+---
+
+## 📊 GitHub Stats & Trophies
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ReturajProshad&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReturajProshad&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=ReturajProshad&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ReturajProshad&theme=tokyonight&no-frame=true&row=1&column=5" alt="Trophies"/>
+</p>
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="mailto:returajsumon0808@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/returajproshad" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://fb.com/returaj.sumon.1" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/profile/returaj0808" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/returajsumon0808/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UClKnDnqQY9zj7G4e7FkJWQA" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
+
+**Open to:** Full-time · Contract · Remote — Mid to Senior Flutter roles  
+**Contact:** returajsumon0808@gmail.com · +8801608517866
+
+---
+
+<p align="center">
+  <i>"I don't just build features — I build systems that survive the next hire, the next requirement, and the next scale."</i>
+</p>
