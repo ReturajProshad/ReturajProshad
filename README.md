@@ -37,7 +37,7 @@ My work spans system design (multi-backend factory patterns, dynamic RBAC), clie
 ## 💼 Professional Experience
 
 ### 🏢 One Direction Companies Limited (ODCL) — Software Engineer
-`Apr 2025 – Jun 2026` · Dhaka, Bangladesh
+`Apr 2025 – Present` · Dhaka, Bangladesh
 
 Owned end-to-end engineering across **3 concurrent enterprise production systems** — Smart Gowala, FoodExpo Kiosk, and Shimana — spanning livestock management, self-service F&B POS kiosks, and border compliance workflows, working across client, API, and data layers.
 
