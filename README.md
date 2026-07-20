@@ -69,7 +69,7 @@ Owned end-to-end engineering across **3 concurrent enterprise production systems
 
 ---
 
-### 🐄 [Smart Gowala (Khabani) — Enterprise Livestock Management ERP](https://github.com/ReturajProshad/professional-summary/blob/main/SmartGowala%20(KHABANI).md)
+### 🐄 [(Current Agrotech)->Smart Gowala (Khabani) — Enterprise Livestock Management ERP](https://github.com/ReturajProshad/professional-summary/blob/main/SmartGowala%20(KHABANI).md)
 > *Clean Architecture · Multi-Backend Factory · Metadata-Driven Forms · Dynamic RBAC*
 
 A production system for livestock management supporting **1,000+ concurrent users**.
