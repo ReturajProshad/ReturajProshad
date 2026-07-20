@@ -65,7 +65,7 @@ Owned end-to-end engineering across **3 concurrent enterprise production systems
 
 ## 🚀 Professional Projects
 
-> These are production systems built during my time at ODCL. Source code is confidential; architecture is documented publicly.
+> These are production systems built during my time at ODCL.
 
 ---
 
