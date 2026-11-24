@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 About Me
 
-Software Engineer with production experience since **September 2024**, having built and shipped **three concurrent enterprise-grade systems** end-to-end — not as a single-stack specialist, but as someone who reasons about a problem first and picks the right layer of the stack second.
+Software Engineer with Hands on experience since **2023**, having built and shipped **three concurrent enterprise-grade systems** end-to-end — not as a single-stack specialist, but as someone who reasons about a problem first and picks the right layer of the stack second.
 
 My work spans system design (multi-backend factory patterns, dynamic RBAC), client engineering (metadata-driven UI rendering 90+ dynamic forms), native/platform integration (Win32 + ESC/POS via Method Channels), authentication (JWT/RBAC), and distributed-systems concerns like offline-first data synchronization — caching strategies (SWR/TTL/LRU) and conflict resolution (LWW, Operational Transformation, CRDTs). I work directly with backend teams on Spring Boot REST API design and contribute to Node.js services myself when the problem calls for it.
 
